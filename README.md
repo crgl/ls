@@ -1,7 +1,7 @@
 # ls
 A reproduction of the basic functionality of ls
 
-##Supported options
+## Supported options
 * -l for long-form output
 * -R to search directories recursively
 * -a to show hidden files and directories
