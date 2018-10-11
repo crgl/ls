@@ -6,7 +6,7 @@
 /*   By: cgleason <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/08/19 17:35:50 by cgleason          #+#    #+#             */
-/*   Updated: 2018/08/19 17:35:58 by cgleason         ###   ########.fr       */
+/*   Updated: 2018/10/10 20:43:24 by cgleason         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 
 void			print_usage(void)
 {
-	ft_putendl("usage: ./ft_ls [-lRart] [file ...]");
+	ft_putendl("usage: ./ft_ls [-lRart1] [file ...]");
 	exit(1);
 }
 
